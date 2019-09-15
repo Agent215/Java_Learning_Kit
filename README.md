@@ -2,5 +2,5 @@
 my java 1 text book from community college. written by Chuck Herbert 
 
 
-I have included all of the assingment, with my solutions from that semester. 
+I have included all of the assingments, with my solutions from that semester. 
 Information should be free.
