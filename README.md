@@ -1,4 +1,4 @@
-# Java_Text_Book
+# Java_Learning_Kit
 ## java 1 textbook from community college of Philadelphia. written by Chuck Herbert 
 
 This was originally shared as free with me, and im just returning the favor. 
