@@ -7,7 +7,7 @@ the basics of computer programing.
 
 The projects in the text book and the assignments were built using java and the netbeans ide.
 
-download netbeans here to open porject files:
+download netbeans here to open project files:
 https://netbeans.org/
 
 I have included all of the assignments, with my solutions from that semester. 
