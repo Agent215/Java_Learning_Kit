@@ -17,8 +17,8 @@ https://netbeans.org/
 ## Chapters
 
 - ![Chapter 1](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/Java%20Learning%20Kit%20Chapter%201%20.pdf) Intro
-- missing 3
 - ![Chapter 2](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/JLK%20Chapter%202%20Reading%20Writing%20and%20Arithmetic-1.pdf) Reading Writing and Arithmetic
+- missing 3
 - ![Chapter 4](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/JLK%20Chapter%204%20Repetition.pdf) Repetition
 - ![Chapter 5](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/JLK%20Chapter%205%20Methods%20and%20Modularity.pdf) Methods and Modularity
 - ![Chapter 6](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/JLK%20Chapter%206%20Arrays%20%20and%20Data%20Files.pdf) Arrays and Data files
