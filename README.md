@@ -16,20 +16,20 @@ https://netbeans.org/
 
 ## Chapters
 
-- ![Chapter 1](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/Java%20Learning%20Kit%20Chapter%201%20.pdf)
+- ![Chapter 1](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/Java%20Learning%20Kit%20Chapter%201%20.pdf) Intro
 - missing 3
-- ![Chapter 2](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/JLK%20Chapter%202%20Reading%20Writing%20and%20Arithmetic-1.pdf)
-- ![Chapter 4](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/JLK%20Chapter%204%20Repetition.pdf)
-- ![Chapter 5](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/JLK%20Chapter%205%20Methods%20and%20Modularity.pdf)
-- ![Chapter 6](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/JLK%20Chapter%206%20Arrays%20%20and%20Data%20Files.pdf)
-- ![Chapter 7](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/JLK%20%20Chapter%207%20Graphical%20User%20Interfaces%20(1).pdf)
-- ![Chapter 8](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/JLK%20Chapter%208%20Object%20Oriented%20Software%20Concepts%20(1).pdf)
-- ![Chapter 9](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/Java%20Text%20Chapter-09.pdf)
-- ![Chapter 10](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/Java%20Chapter%2010%20Event-Driven%20Software%20(first%20draft).pdf)
-- ![Chapter 11](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/Java%20Chapter%2011%20Graphics%20(first%20draft).pdf)
-- ![Chapter 12](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/Java%20Chapter%2012%20Exceptions%20(first%20draft).pdf)
-- ![Chapter 13](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/Java%20Chapter%2013%20Software%20Testing%20(first%20draft).pdf)
-- ![Chapter 14](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/Java%20Chapter%2014%20Java%20Software%20Deployment%20(first%20draft).pdf)
+- ![Chapter 2](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/JLK%20Chapter%202%20Reading%20Writing%20and%20Arithmetic-1.pdf) Reading Writing and Arithmetic
+- ![Chapter 4](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/JLK%20Chapter%204%20Repetition.pdf) Repetition
+- ![Chapter 5](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/JLK%20Chapter%205%20Methods%20and%20Modularity.pdf) Methods and Modularity
+- ![Chapter 6](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/JLK%20Chapter%206%20Arrays%20%20and%20Data%20Files.pdf) Arrays and Data files
+- ![Chapter 7](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/JLK%20%20Chapter%207%20Graphical%20User%20Interfaces%20(1).pdf) Graphical User Interfaces (GUI's)
+- ![Chapter 8](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/JLK%20Chapter%208%20Object%20Oriented%20Software%20Concepts%20(1).pdf) Object Oriented Software Concepts
+- ![Chapter 9](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/Java%20Text%20Chapter-09.pdf) Classes and Objects in Java
+- ![Chapter 10](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/Java%20Chapter%2010%20Event-Driven%20Software%20(first%20draft).pdf) Event-Driven Software
+- ![Chapter 11](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/Java%20Chapter%2011%20Graphics%20(first%20draft).pdf) Graphics
+- ![Chapter 12](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/Java%20Chapter%2012%20Exceptions%20(first%20draft).pdf) Exceptions
+- ![Chapter 13](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/Java%20Chapter%2013%20Software%20Testing%20(first%20draft).pdf) Software Testing
+- ![Chapter 14](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/Java%20Chapter%2014%20Java%20Software%20Deployment%20(first%20draft).pdf) Java software Deployment
 - ![Chapter 15](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/Java%20Text%20Chapter-15%20(3).pdf)
 - ![Chapter 16](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/Java%20Chapter%2016%20Recursion%20(first%20draft)%20.pdf)
 - ![Chapter 17](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/Java%20Chapter%2017%20Using%20External%20APIs%20(first%20draft)%20.pdf)
