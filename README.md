@@ -14,7 +14,7 @@ https://netbeans.org/
 
 ## Chapters
 
-- ![Chapter 1](https://github.com/Agent215/Java_Learning_Kit/master/CSCI%20111%20java%20textbook/Java%20Learning%20Kit%20Chapter%201%20.pdf)
+- ![Chapter 1](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/Java%20Learning%20Kit%20Chapter%201%20.pdf)
 
 
 
