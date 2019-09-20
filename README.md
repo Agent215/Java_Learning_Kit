@@ -14,9 +14,9 @@ https://netbeans.org/
 
 ## Chapters
 
-- Chapter 1 : ![UML Diagram](https://github.com/Agent215/Java_Learning_Kit/raw/master/CSCI%20111%20java%20textbook/Java%20Learning%20Kit%20Chapter%201%20.pdf)
+- Chapter 1 : ![Chapter 1](https://github.com/Agent215/Java_Learning_Kit/raw/master/CSCI%20111%20java%20textbook/Java%20Learning%20Kit%20Chapter%201%20.pdf)
 - Chapter 3 : missing?
-- Chapter 4 : ![UML Diagram](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/JLK%20Chapter%204%20Repetition.pdf)
+- Chapter 4 : ![Chapter 3](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/JLK%20Chapter%204%20Repetition.pdf)
 - Chapter 5 :![UML Diagram](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/JLK%20Chapter%205%20Methods%20and%20Modularity.pdf)
 - Chapter 6 : ![UML Diagram](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/JLK%20Chapter%206%20Arrays%20%20and%20Data%20Files.pdf)
 - Chapter 7 : ![UML Diagram](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/JLK%20%20Chapter%207%20Graphical%20User%20Interfaces%20(1).pdf)
