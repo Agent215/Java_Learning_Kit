@@ -7,7 +7,7 @@ the basics of computer programing.
 
 The projects in the text book and the assignments were built using java and the netbeans ide.
 
-each assignment is included in a zip file with the assoiciated lab report.
+each assignment is included in a zip file with the associated lab report.
 
 download netbeans here to open project files:
 
