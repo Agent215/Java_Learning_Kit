@@ -22,6 +22,22 @@ https://netbeans.org/
 - ![Chapter 4](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/JLK%20Chapter%204%20Repetition.pdf)
 - ![Chapter 5](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/JLK%20Chapter%205%20Methods%20and%20Modularity.pdf)
 - ![Chapter 6](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/JLK%20Chapter%206%20Arrays%20%20and%20Data%20Files.pdf)
+- ![Chapter 7](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/JLK%20%20Chapter%207%20Graphical%20User%20Interfaces%20(1).pdf)
+- ![Chapter 8](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/JLK%20Chapter%208%20Object%20Oriented%20Software%20Concepts%20(1).pdf)
+- ![Chapter 9](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/Java%20Text%20Chapter-09.pdf)
+- ![Chapter 10](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/Java%20Chapter%2010%20Event-Driven%20Software%20(first%20draft).pdf)
+- ![Chapter 11](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/Java%20Chapter%2011%20Graphics%20(first%20draft).pdf)
+- ![Chapter 12](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/Java%20Chapter%2012%20Exceptions%20(first%20draft).pdf)
+- ![Chapter 13](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/Java%20Chapter%2013%20Software%20Testing%20(first%20draft).pdf)
+- ![Chapter 14](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/Java%20Chapter%2014%20Java%20Software%20Deployment%20(first%20draft).pdf)
+- ![Chapter 15](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/Java%20Text%20Chapter-15%20(3).pdf)
+- ![Chapter 16](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/Java%20Chapter%2016%20Recursion%20(first%20draft)%20.pdf)
+- ![Chapter 17](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/Java%20Chapter%2017%20Using%20External%20APIs%20(first%20draft)%20.pdf)
+- ![Chapter 18](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/Java%20Chapter%2018%20Data%20Files%20and%20Directories%20(first%20draft).pdf)
+- ![Chapter 19](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/Java%20Chapter%2019%20Iterative%20Sorting%20Techniques%20(first%20draft).pdf)
+- ![Chapter 20](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/Java%20Chapter%2020%20Recursive%20Sorting%20and%20Algorithmic%20Complexity%20(first%20draft).pdf)
+- ![Chapter 21](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/Java%20Chapter%2021%20%E2%80%93%20Java%20Database%20Connectivity%20(first%20draft).pdf)
+- ![Chapter 22](https://github.com/Agent215/Java_Learning_Kit/blob/master/CSCI%20111%20java%20textbook/Java%20Chapter%2022%20Parallel%20Computing%20(first%20draft).pdf)
 
 
 
